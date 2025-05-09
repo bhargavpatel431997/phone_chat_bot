@@ -11,8 +11,9 @@
 7. go to your twillio phone dashboard set call status changes webhook to: https://<ngrok_address>/call-status
 8. Edit env variables setup values
 9. Open new Terminal
-10. command: `pip install -r requirements.txt`
-11. command: `python inbound_call.py`
+10. command: `pip install -r requirements.txt` 
+11. once 10th step is done command: `python inbound_call.py`
 12. Edit `test_call.py` set your ngrok test params such as mobile numbers and ngrok inbound url
-13. command: `python test_call.py`
-14. happy voice chatting!!
+13. Open new Terminal
+14. command: `python test_call.py`
+15. happy voice chatting!!
