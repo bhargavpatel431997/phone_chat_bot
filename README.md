@@ -2,7 +2,7 @@
 
 ## Steps for installation
 0. Clone this repository
-1. Get twillio or any phone inbound number
+1. Get twillio phone number
 2. Install ngrok 
 3. ngrok config add-authtoken <YourAuthToken>
 4. ngrok http 8000
