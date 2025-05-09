@@ -12,3 +12,4 @@
 7. run "python inbound_call.py"
 8. Edit test_call.py set your ngrok test params such as mobile numbers and ngrok inbound url
 9. run "python test_call.py"
+10. happy voice chatting!!
